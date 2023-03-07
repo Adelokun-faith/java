@@ -1,0 +1,55 @@
+body{
+    background-image: url(pics.jpg);
+    background-size: 100%;
+}
+h1{
+    position: absolute;
+    left: 300px;
+    font-weight: 500;
+}
+h2{
+    position: absolute;
+    left: 500px;
+    font-weight: 800;
+    text-align: center;
+    top: 100px;
+}
+
+h3{
+    position: absolute;
+    left: 600px;
+    font-weight: 800;
+    text-align: center;
+    top: 200px;
+    text-size-adjust: 20px;
+}
+
+#increment-btn{
+    background-color: red;
+    height: 50px;
+    color: white;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    left: 550px;
+    top: 300px;
+    border: 2px solid blue;
+}
+
+#save-btn{
+    background-color: green;
+    height: 50px;
+    color: white;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    left: 550px;
+    top: 360px;
+    border: 2px solid red;
+    width: 100px;
+}
+
+footer{
+    background-color: aliceblue;
+    width: 200px;
+}
